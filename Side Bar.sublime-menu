@@ -1,0 +1,11 @@
+[
+	{ "caption": "-" },
+	{ "caption": "TGit Sync", "command": "t_git_sync", "args": {"paths":[]}},
+	{ "caption": "TGit Pull", "command": "t_git_pull", "args": {"paths":[]}},
+    { "caption": "TGit Push", "command": "t_git_push", "args": {"paths":[]}},
+	{ "caption": "TGit Commit", "command": "t_git_commit", "args": {"paths":[]}},
+	{ "caption": "TGit Revert", "command": "t_git_revert", "args": {"paths":[]}},
+	{ "caption": "TGit Blame", "command": "t_git_blame", "args": {"paths":[]}},
+	{ "caption": "TGit Log", "command": "t_git_log", "args": {"paths":[]}},
+	{ "caption": "-", "id": "end" }
+]

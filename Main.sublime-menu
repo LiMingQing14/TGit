@@ -1,0 +1,54 @@
+[
+	{
+		"id": "preferences",
+		"children":
+		[
+			{
+				"caption": "Package Settings",
+				"id": "package-settings",
+				"children":
+				[
+					{
+						"caption": "TGit",
+						"children":
+						[
+							{
+								"caption": "Settings – Default",
+								"command": "open_file",
+								"args":
+								{
+									"file": "${packages}/TGit/TGit.sublime-settings"
+								}
+							},
+							{
+								"caption": "Settings – User",
+								"command": "open_file",
+								"args":
+								{
+									"file": "${packages}/User/TGit.sublime-settings"
+								}
+							},
+							{ "caption": "-" },
+							{
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/TGit/Default (Windows).sublime-keymap",
+									"platform": "Windows"
+								},
+								"caption": "Key Bindings – Default"
+							},
+							{
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/User/Default (Windows).sublime-keymap",
+									"platform": "Windows"
+								},
+								"caption": "Key Bindings – User"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

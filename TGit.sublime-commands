@@ -1,0 +1,9 @@
+[
+    { "caption": "TGit: Sync", "command": "t_git_sync" },
+    { "caption": "TGit: Pull", "command": "t_git_pull" },
+	{ "caption": "TGit: Push", "command": "t_git_push" },
+	{ "caption": "TGit: Commit", "command": "t_git_commit" },
+	{ "caption": "TGit: Revert", "command": "t_git_revert" },
+	{ "caption": "TGit: Blame", "command": "t_git_blame" },
+	{ "caption": "TGit: Log", "command": "t_git_log" }
+]

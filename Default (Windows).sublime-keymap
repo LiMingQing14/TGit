@@ -1,0 +1,11 @@
+[
+	{ "keys": ["alt+s"], "command": "t_git_sync" }
+	,{ "keys": ["alt+c"], "command": "t_git_commit" }
+	,{ "keys": ["alt+r"], "command": "t_git_revert" }
+	,{ "keys": ["alt+l"], "command": "t_git_log" }
+	,{ "keys": ["alt+d"], "command": "t_git_diff" }
+	,{ "keys": ["alt+b"], "command": "t_git_blame" }
+
+    // ,{ "keys": ["alt+f11"], "command": "t_git_pull" }
+    // ,{ "keys": ["alt+f12"], "command": "t_git_push" }
+]
